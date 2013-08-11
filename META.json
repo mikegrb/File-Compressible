@@ -26,7 +26,7 @@
    "prereqs" : {
       "configure" : {
          "requires" : {
-            "Module::Build::Tiny" : "0.025"
+            "ExtUtils::MakeMaker" : "6.30"
          }
       },
       "develop" : {
@@ -46,9 +46,20 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/mikegrb/File-Compressible/issues"
+      },
+      "homepage" : "https://github.com/mikegrb/File-Compressible",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/mikegrb/File-Compressible.git",
+         "web" : "https://github.com/mikegrb/File-Compressible"
+      }
+   },
+   "version" : "0.02",
    "x_contributors" : [
-      "mikegrb <mgreb@linode.com>"
+      "mikegrb <michael@thegrebs.com>"
    ]
 }
 
