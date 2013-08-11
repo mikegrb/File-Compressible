@@ -6,7 +6,7 @@ use warnings;
 use List::Util 'first';
 use Exporter 'import';
 
-our $VERSION   = '0.01';
+our $VERSION   = '0.02';
 our @EXPORT_OK = (qw(compressible));
 
 our @compressible = qw(
