@@ -1,6 +1,7 @@
 Revision history for File-Compressible
 
 {{$NEXT}}
+        - Switch to MakeMaker for install tool
         - Git .mailmap
 
 0.01  2013-08-10 23:51:37 EDT
