@@ -49,7 +49,7 @@ File::Compressible - determine if a mime type is compressible
 
 =head1 SYNOPSIS
 
-  use File::Compressible 'compressible;
+  use File::Compressible 'compressible';
   use File::Type;
   ...
   my $ft = File::Type->new();
