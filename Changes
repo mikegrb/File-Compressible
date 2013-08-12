@@ -1,6 +1,7 @@
 Revision history for File-Compressible
 
 {{$NEXT}}
+        - Fix typo in synopsis
 
 0.02  2013-08-11 00:01:40 EDT
         - Switch to MakeMaker for install tool
